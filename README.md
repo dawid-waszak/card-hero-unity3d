@@ -48,21 +48,15 @@ każda kolejna karta, która wyświetli się na ekranie, to jeden punkt.
 Kartę można przeciągnąć do ekwipunku lub ją pominąć.
 Jeśli kartą jest przeciwnik można go tylko zaatakować lub pominąć za 50 monet.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
 Dawid Waszak - https://dawid-waszak.github.io
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
